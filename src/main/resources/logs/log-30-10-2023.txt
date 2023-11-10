@@ -1,0 +1,12 @@
+[30_10__2023 11:15:35] : attempting to login : jean@mail.be
+[30_10__2023 11:15:35] : Log in attempt successful : jean@mail.be
+[30_10__2023 11:15:35] : login attempt to login has ended : jean@mail.be
+[30_10__2023 11:15:35] : controller login attempt successful : 200 OK
+[30_10__2023 14:33:12] : attempting to login : jean@mail.be
+[30_10__2023 14:33:13] : Log in attempt successful : jean@mail.be
+[30_10__2023 14:33:13] : login attempt to login has ended : jean@mail.be
+[30_10__2023 14:33:13] : controller login attempt successful : 200 OK
+[30_10__2023 15:51:52] : attempting to login : jean@mail.be
+[30_10__2023 15:51:52] : Log in attempt successful : jean@mail.be
+[30_10__2023 15:51:52] : login attempt to login has ended : jean@mail.be
+[30_10__2023 15:51:52] : controller login attempt successful : 200 OK

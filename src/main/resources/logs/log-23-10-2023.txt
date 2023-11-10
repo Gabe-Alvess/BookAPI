@@ -1,0 +1,151 @@
+[23_10__2023 00:00:12] : attempting to add book : TEST8
+[23_10__2023 00:00:12] : add book attempt successful : TEST8
+[23_10__2023 00:00:12] : addBookadd book attempt has ended : TEST8
+[23_10__2023 00:00:12] : controller update book attempt successful : 200 OK
+[23_10__2023 00:00:12] : controller add book attempt successful : 200 OK
+[23_10__2023 00:01:13] : attempting to add book : TEST10
+[23_10__2023 00:01:13] : add book attempt successful : TEST10
+[23_10__2023 00:01:13] : addBookadd book attempt has ended : TEST10
+[23_10__2023 00:01:13] : controller update book attempt successful : 200 OK
+[23_10__2023 00:01:13] : controller add book attempt successful : 200 OK
+[23_10__2023 00:01:46] : attempting to delete book : 73
+[23_10__2023 00:01:46] : delete book attempt successful : 73
+[23_10__2023 00:01:46] : deleteBookByIddelete book attempt has ended : 73
+[23_10__2023 00:01:48] : attempting to delete book : 74
+[23_10__2023 00:01:48] : delete book attempt successful : 74
+[23_10__2023 00:01:48] : deleteBookByIddelete book attempt has ended : 74
+[23_10__2023 00:01:49] : attempting to delete book : 75
+[23_10__2023 00:01:49] : delete book attempt successful : 75
+[23_10__2023 00:01:49] : deleteBookByIddelete book attempt has ended : 75
+[23_10__2023 00:01:55] : attempting to delete book : 76
+[23_10__2023 00:01:55] : delete book attempt successful : 76
+[23_10__2023 00:01:55] : deleteBookByIddelete book attempt has ended : 76
+[23_10__2023 00:01:59] : attempting to delete book : 77
+[23_10__2023 00:01:59] : delete book attempt successful : 77
+[23_10__2023 00:01:59] : deleteBookByIddelete book attempt has ended : 77
+[23_10__2023 00:02:02] : attempting to delete book : 78
+[23_10__2023 00:02:02] : delete book attempt successful : 78
+[23_10__2023 00:02:02] : deleteBookByIddelete book attempt has ended : 78
+[23_10__2023 00:02:04] : attempting to delete book : 79
+[23_10__2023 00:02:04] : delete book attempt successful : 79
+[23_10__2023 00:02:04] : deleteBookByIddelete book attempt has ended : 79
+[23_10__2023 00:02:06] : attempting to delete book : 80
+[23_10__2023 00:02:06] : delete book attempt successful : 80
+[23_10__2023 00:02:06] : deleteBookByIddelete book attempt has ended : 80
+[23_10__2023 00:02:07] : attempting to delete book : 81
+[23_10__2023 00:02:07] : delete book attempt successful : 81
+[23_10__2023 00:02:07] : deleteBookByIddelete book attempt has ended : 81
+[23_10__2023 00:02:10] : attempting to delete book : 82
+[23_10__2023 00:02:10] : delete book attempt successful : 82
+[23_10__2023 00:02:10] : deleteBookByIddelete book attempt has ended : 82
+[23_10__2023 00:16:44] : attempting to login : jean@user.be
+[23_10__2023 00:16:44] : Log in attempt successful : jean@user.be
+[23_10__2023 00:16:44] : login attempt to login has ended : jean@user.be
+[23_10__2023 00:16:44] : controller login attempt successful : 200 OK
+[23_10__2023 00:17:39] : attempting to login : jean@user.be
+[23_10__2023 00:17:39] : Log in attempt successful : jean@user.be
+[23_10__2023 00:17:39] : login attempt to login has ended : jean@user.be
+[23_10__2023 00:17:39] : controller login attempt successful : 200 OK
+[23_10__2023 00:17:56] : attempting to login : sdsd
+[23_10__2023 00:17:56] : log in attempt failed : no user found
+[23_10__2023 00:17:56] : login attempt to login has ended : sdsd
+[23_10__2023 00:17:56] : controller login attempt successful : 404 NOT_FOUND
+[23_10__2023 00:18:09] : attempting to login : jean@user.be
+[23_10__2023 00:18:10] : log in attempt failed : jean@user.be
+[23_10__2023 00:18:10] : log in attempt failed : Bad credentials
+[23_10__2023 00:18:10] : login attempt to login has ended : jean@user.be
+[23_10__2023 00:18:10] : controller login attempt successful : 400 BAD_REQUEST
+[23_10__2023 00:18:26] : attempting to login : jean@user.be
+[23_10__2023 00:18:26] : Log in attempt successful : jean@user.be
+[23_10__2023 00:18:26] : login attempt to login has ended : jean@user.be
+[23_10__2023 00:18:26] : controller login attempt successful : 200 OK
+[23_10__2023 00:32:01] : attempting to login : jean@adm.be
+[23_10__2023 00:32:01] : Log in attempt successful : jean@adm.be
+[23_10__2023 00:32:01] : login attempt to login has ended : jean@adm.be
+[23_10__2023 00:32:01] : controller login attempt successful : 200 OK
+[23_10__2023 00:33:01] : attempting to login : jean@adm.be
+[23_10__2023 00:33:01] : log in attempt failed : jean@adm.be
+[23_10__2023 00:33:01] : log in attempt failed : Bad credentials
+[23_10__2023 00:33:01] : login attempt to login has ended : jean@adm.be
+[23_10__2023 00:33:01] : controller login attempt successful : 400 BAD_REQUEST
+[23_10__2023 00:33:05] : attempting to login : jean@adm.be
+[23_10__2023 00:33:05] : Log in attempt successful : jean@adm.be
+[23_10__2023 00:33:05] : login attempt to login has ended : jean@adm.be
+[23_10__2023 00:33:05] : controller login attempt successful : 200 OK
+[23_10__2023 00:33:37] : attempting to login : jean@user.be
+[23_10__2023 00:33:37] : Log in attempt successful : jean@user.be
+[23_10__2023 00:33:37] : login attempt to login has ended : jean@user.be
+[23_10__2023 00:33:37] : controller login attempt successful : 200 OK
+[23_10__2023 12:54:07] : attempting to login : ddhjsdhjsh
+[23_10__2023 12:54:07] : log in attempt failed : no user found
+[23_10__2023 12:54:07] : login attempt to login has ended : ddhjsdhjsh
+[23_10__2023 12:54:07] : controller login attempt successful : 404 NOT_FOUND
+[23_10__2023 15:15:18] : attempting to Creat account : jean@user.be
+[23_10__2023 15:15:19] : createUser attempt to creat account has ended : jean@user.be
+[23_10__2023 15:15:19] : controller create account attempt successful : 200 OK
+[23_10__2023 15:15:31] : attempting to Creat account : jean@user.be
+[23_10__2023 15:15:32] : createUser attempt to creat account has ended : jean@user.be
+[23_10__2023 15:15:32] : controller create account attempt successful : 400 BAD_REQUEST
+[23_10__2023 15:16:10] : attempting to login : jean@user.be
+[23_10__2023 15:16:11] : log in attempt failed : jean@user.be
+[23_10__2023 15:16:11] : log in attempt failed : Bad credentials
+[23_10__2023 15:16:11] : login attempt to login has ended : jean@user.be
+[23_10__2023 15:16:11] : controller login attempt successful : 400 BAD_REQUEST
+[23_10__2023 15:16:28] : attempting to login : fdkfjkdfjdfdk
+[23_10__2023 15:16:28] : log in attempt failed : no user found
+[23_10__2023 15:16:28] : login attempt to login has ended : fdkfjkdfjdfdk
+[23_10__2023 15:16:28] : controller login attempt successful : 404 NOT_FOUND
+[23_10__2023 15:16:38] : attempting to login : jean@user.be
+[23_10__2023 15:16:38] : Log in attempt successful : jean@user.be
+[23_10__2023 15:16:38] : login attempt to login has ended : jean@user.be
+[23_10__2023 15:16:38] : controller login attempt successful : 200 OK
+[23_10__2023 15:17:37] : attempting to borrow a book : jean@user.be
+[23_10__2023 15:17:37] : borrow book attempt successful : jean@user.be
+[23_10__2023 15:17:37] : borrowBookborrow book attempt has ended : jean@user.be
+[23_10__2023 15:18:00] : attempting to borrow a book : jean@user.be
+[23_10__2023 15:18:00] : borrow book attempt successful : jean@user.be
+[23_10__2023 15:18:00] : borrowBookborrow book attempt has ended : jean@user.be
+[23_10__2023 15:18:06] : attempting to borrow a book : jean@user.be
+[23_10__2023 15:18:06] : borrow book attempt successful : jean@user.be
+[23_10__2023 15:18:06] : borrowBookborrow book attempt has ended : jean@user.be
+[23_10__2023 15:18:36] : attempting to renew Borrowed Book : jean@user.be
+[23_10__2023 15:18:36] : renew borrowed book attempt successful : jean@user.be
+[23_10__2023 15:18:36] : renewBorrowedBookrenew borrowed book attempt has ended : jean@user.be
+[23_10__2023 15:19:16] : attempting to return Borrowed Book : 1
+[23_10__2023 15:19:16] : return borrowed book attempt successful 1
+[23_10__2023 15:19:16] : returnBorrowedBookreturn borrowed book attempt has ended : 1
+[23_10__2023 15:19:22] : attempting to renew Borrowed Book : jean@user.be
+[23_10__2023 15:19:22] : renew borrowed book attempt successful : jean@user.be
+[23_10__2023 15:19:22] : renewBorrowedBookrenew borrowed book attempt has ended : jean@user.be
+[23_10__2023 15:19:25] : attempting to return Borrowed Book : 2
+[23_10__2023 15:19:25] : return borrowed book attempt successful 2
+[23_10__2023 15:19:25] : returnBorrowedBookreturn borrowed book attempt has ended : 2
+[23_10__2023 15:19:26] : attempting to return Borrowed Book : 3
+[23_10__2023 15:19:26] : return borrowed book attempt successful 3
+[23_10__2023 15:19:26] : returnBorrowedBookreturn borrowed book attempt has ended : 3
+[23_10__2023 15:21:43] : attempting to login : jean@adm.be
+[23_10__2023 15:21:43] : log in attempt failed : jean@adm.be
+[23_10__2023 15:21:43] : log in attempt failed : Bad credentials
+[23_10__2023 15:21:43] : login attempt to login has ended : jean@adm.be
+[23_10__2023 15:21:43] : controller login attempt successful : 400 BAD_REQUEST
+[23_10__2023 15:21:51] : attempting to login : jean@adm.be
+[23_10__2023 15:21:51] : log in attempt failed : jean@adm.be
+[23_10__2023 15:21:51] : log in attempt failed : Bad credentials
+[23_10__2023 15:21:51] : login attempt to login has ended : jean@adm.be
+[23_10__2023 15:21:51] : controller login attempt successful : 400 BAD_REQUEST
+[23_10__2023 15:22:09] : attempting to login : jean@adm.be
+[23_10__2023 15:22:09] : Log in attempt successful : jean@adm.be
+[23_10__2023 15:22:09] : login attempt to login has ended : jean@adm.be
+[23_10__2023 15:22:09] : controller login attempt successful : 200 OK
+[23_10__2023 15:24:18] : attempting to add book : TEST
+[23_10__2023 15:24:18] : add book attempt successful : TEST
+[23_10__2023 15:24:18] : addBookadd book attempt has ended : TEST
+[23_10__2023 15:24:18] : controller update book attempt successful : 200 OK
+[23_10__2023 15:24:18] : controller add book attempt successful : 200 OK
+[23_10__2023 15:25:07] : attempting to update : test
+[23_10__2023 15:25:07] : update attempt successful : test
+[23_10__2023 15:25:07] : updateupdate attempt  has ended : test
+[23_10__2023 15:25:07] : controller update book attempt successful : 200 OK
+[23_10__2023 15:25:28] : attempting to delete book : 19
+[23_10__2023 15:25:28] : delete book attempt successful : 19
+[23_10__2023 15:25:28] : deleteBookByIddelete book attempt has ended : 19

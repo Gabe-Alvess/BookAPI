@@ -1,0 +1,32 @@
+[21_10__2023 21:52:36] : attempting to login : jean@user.be
+[21_10__2023 21:52:36] : Log in attempt successful : jean@user.be
+[21_10__2023 21:52:36] : login attempt to login has ended : jean@user.be
+[21_10__2023 21:52:36] : controller login attempt successful : 200 OK
+[21_10__2023 22:29:28] : attempting to login : jean@adm.be
+[21_10__2023 22:29:29] : log in attempt failed : jean@adm.be
+[21_10__2023 22:29:29] : log in attempt failed : Bad credentials
+[21_10__2023 22:29:29] : login attempt to login has ended : jean@adm.be
+[21_10__2023 22:29:29] : controller login attempt successful : 400 BAD_REQUEST
+[21_10__2023 22:29:43] : attempting to login : jean@adm.be
+[21_10__2023 22:29:43] : Log in attempt successful : jean@adm.be
+[21_10__2023 22:29:43] : login attempt to login has ended : jean@adm.be
+[21_10__2023 22:29:43] : controller login attempt successful : 200 OK
+[21_10__2023 22:44:58] : controller update book attempt failed : class java.lang.Long cannot be cast to class be.intecbrussel.bookapi.model.Book (java.lang.Long is in module java.base of loader 'bootstrap'; be.intecbrussel.bookapi.model.Book is in unnamed module of loader org.springframework.boot.devtools.restart.classloader.RestartClassLoader @4fda2e8c)
+[21_10__2023 22:55:26] : attempting to update : IT
+[21_10__2023 22:55:26] : controller update book attempt failed : class java.lang.Long cannot be cast to class be.intecbrussel.bookapi.model.Book (java.lang.Long is in module java.base of loader 'bootstrap'; be.intecbrussel.bookapi.model.Book is in unnamed module of loader org.springframework.boot.devtools.restart.classloader.RestartClassLoader @b0a6861)
+[21_10__2023 23:03:32] : attempting to update : ITOO
+[21_10__2023 23:03:32] : update attempt successful : ITOO
+[21_10__2023 23:03:32] : updateupdate attempt  has ended : ITOO
+[21_10__2023 23:03:32] : controller update book attempt successful : 200 OK
+[21_10__2023 23:03:56] : attempting to update : It
+[21_10__2023 23:03:56] : update attempt successful : It
+[21_10__2023 23:03:56] : updateupdate attempt  has ended : It
+[21_10__2023 23:03:56] : controller update book attempt successful : 200 OK
+[21_10__2023 23:05:51] : attempting to update : Watchmeeen
+[21_10__2023 23:05:51] : update attempt successful : Watchmeeen
+[21_10__2023 23:05:51] : updateupdate attempt  has ended : Watchmeeen
+[21_10__2023 23:05:51] : controller update book attempt successful : 200 OK
+[21_10__2023 23:06:46] : attempting to update : Watchmen
+[21_10__2023 23:06:46] : update attempt successful : Watchmen
+[21_10__2023 23:06:46] : updateupdate attempt  has ended : Watchmen
+[21_10__2023 23:06:46] : controller update book attempt successful : 200 OK

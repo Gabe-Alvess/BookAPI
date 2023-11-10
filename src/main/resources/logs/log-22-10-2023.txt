@@ -1,0 +1,414 @@
+[22_10__2023 00:42:52] : attempting to update : IT
+[22_10__2023 00:42:52] : update attempt successful : IT
+[22_10__2023 00:42:52] : updateupdate attempt  has ended : IT
+[22_10__2023 00:42:52] : controller update book attempt successful : 200 OK
+[22_10__2023 00:43:10] : attempting to update : It
+[22_10__2023 00:43:10] : update attempt successful : It
+[22_10__2023 00:43:10] : updateupdate attempt  has ended : It
+[22_10__2023 00:43:10] : controller update book attempt successful : 200 OK
+[22_10__2023 00:44:26] : attempting to update : IT
+[22_10__2023 00:44:26] : update attempt successful : IT
+[22_10__2023 00:44:26] : updateupdate attempt  has ended : IT
+[22_10__2023 00:44:26] : controller update book attempt successful : 200 OK
+[22_10__2023 00:45:59] : attempting to update : It
+[22_10__2023 00:45:59] : update attempt successful : It
+[22_10__2023 00:45:59] : updateupdate attempt  has ended : It
+[22_10__2023 00:45:59] : controller update book attempt successful : 200 OK
+[22_10__2023 00:46:15] : attempting to update : ITOOO
+[22_10__2023 00:46:15] : update attempt successful : ITOOO
+[22_10__2023 00:46:15] : updateupdate attempt  has ended : ITOOO
+[22_10__2023 00:46:15] : controller update book attempt successful : 200 OK
+[22_10__2023 00:47:52] : attempting to update : it
+[22_10__2023 00:47:52] : update attempt successful : it
+[22_10__2023 00:47:52] : updateupdate attempt  has ended : it
+[22_10__2023 00:47:52] : controller update book attempt successful : 200 OK
+[22_10__2023 00:48:49] : attempting to update : It
+[22_10__2023 00:48:49] : update attempt successful : It
+[22_10__2023 00:48:49] : updateupdate attempt  has ended : It
+[22_10__2023 00:48:49] : controller update book attempt successful : 200 OK
+[22_10__2023 00:49:32] : attempting to update : IT
+[22_10__2023 00:49:32] : update attempt successful : IT
+[22_10__2023 00:49:32] : updateupdate attempt  has ended : IT
+[22_10__2023 00:49:32] : controller update book attempt successful : 200 OK
+[22_10__2023 00:51:17] : attempting to update : It
+[22_10__2023 00:51:17] : update attempt successful : It
+[22_10__2023 00:51:17] : updateupdate attempt  has ended : It
+[22_10__2023 00:51:17] : controller update book attempt successful : 200 OK
+[22_10__2023 00:52:06] : attempting to update : ITO
+[22_10__2023 00:52:06] : update attempt successful : ITO
+[22_10__2023 00:52:06] : updateupdate attempt  has ended : ITO
+[22_10__2023 00:52:06] : controller update book attempt successful : 200 OK
+[22_10__2023 00:52:34] : attempting to update : It
+[22_10__2023 00:52:34] : update attempt successful : It
+[22_10__2023 00:52:34] : updateupdate attempt  has ended : It
+[22_10__2023 00:52:34] : controller update book attempt successful : 200 OK
+[22_10__2023 00:54:00] : attempting to update : Watchmeeeen
+[22_10__2023 00:54:00] : update attempt successful : Watchmeeeen
+[22_10__2023 00:54:00] : updateupdate attempt  has ended : Watchmeeeen
+[22_10__2023 00:54:00] : controller update book attempt successful : 200 OK
+[22_10__2023 00:54:41] : attempting to update : Watchmen
+[22_10__2023 00:54:41] : update attempt successful : Watchmen
+[22_10__2023 00:54:41] : updateupdate attempt  has ended : Watchmen
+[22_10__2023 00:54:41] : controller update book attempt successful : 200 OK
+[22_10__2023 00:54:52] : attempting to update : Watchmeeen
+[22_10__2023 00:54:52] : update attempt successful : Watchmeeen
+[22_10__2023 00:54:52] : updateupdate attempt  has ended : Watchmeeen
+[22_10__2023 00:54:52] : controller update book attempt successful : 200 OK
+[22_10__2023 00:55:05] : attempting to update : Watchmen
+[22_10__2023 00:55:05] : update attempt successful : Watchmen
+[22_10__2023 00:55:05] : updateupdate attempt  has ended : Watchmen
+[22_10__2023 00:55:05] : controller update book attempt successful : 200 OK
+[22_10__2023 00:55:37] : attempting to update : Watchmeen
+[22_10__2023 00:55:37] : update attempt successful : Watchmeen
+[22_10__2023 00:55:37] : updateupdate attempt  has ended : Watchmeen
+[22_10__2023 00:55:37] : controller update book attempt successful : 200 OK
+[22_10__2023 00:55:48] : attempting to update : Watchmeeen
+[22_10__2023 00:55:48] : update attempt successful : Watchmeeen
+[22_10__2023 00:55:48] : updateupdate attempt  has ended : Watchmeeen
+[22_10__2023 00:55:48] : controller update book attempt successful : 200 OK
+[22_10__2023 00:56:31] : attempting to update : Watchmen
+[22_10__2023 00:56:31] : update attempt successful : Watchmen
+[22_10__2023 00:56:31] : updateupdate attempt  has ended : Watchmen
+[22_10__2023 00:56:31] : controller update book attempt successful : 200 OK
+[22_10__2023 00:56:52] : attempting to update : Watchmeen
+[22_10__2023 00:56:52] : update attempt successful : Watchmeen
+[22_10__2023 00:56:52] : updateupdate attempt  has ended : Watchmeen
+[22_10__2023 00:56:52] : controller update book attempt successful : 200 OK
+[22_10__2023 00:58:44] : attempting to update : IT
+[22_10__2023 00:58:44] : update attempt successful : IT
+[22_10__2023 00:58:44] : updateupdate attempt  has ended : IT
+[22_10__2023 00:58:44] : controller update book attempt successful : 200 OK
+[22_10__2023 01:00:56] : attempting to update : It
+[22_10__2023 01:00:56] : update attempt successful : It
+[22_10__2023 01:00:56] : updateupdate attempt  has ended : It
+[22_10__2023 01:00:56] : controller update book attempt successful : 200 OK
+[22_10__2023 01:01:22] : attempting to update : IT
+[22_10__2023 01:01:22] : update attempt successful : IT
+[22_10__2023 01:01:22] : updateupdate attempt  has ended : IT
+[22_10__2023 01:01:22] : controller update book attempt successful : 200 OK
+[22_10__2023 01:03:26] : attempting to update : It
+[22_10__2023 01:03:26] : update attempt successful : It
+[22_10__2023 01:03:26] : updateupdate attempt  has ended : It
+[22_10__2023 01:03:26] : controller update book attempt successful : 200 OK
+[22_10__2023 01:03:34] : attempting to update : IT
+[22_10__2023 01:03:34] : update attempt successful : IT
+[22_10__2023 01:03:34] : updateupdate attempt  has ended : IT
+[22_10__2023 01:03:34] : controller update book attempt successful : 200 OK
+[22_10__2023 01:03:46] : attempting to update : It
+[22_10__2023 01:03:46] : update attempt successful : It
+[22_10__2023 01:03:46] : updateupdate attempt  has ended : It
+[22_10__2023 01:03:46] : controller update book attempt successful : 200 OK
+[22_10__2023 01:28:08] : attempting to update : ITO
+[22_10__2023 01:28:08] : update attempt successful : ITO
+[22_10__2023 01:28:08] : updateupdate attempt  has ended : ITO
+[22_10__2023 01:28:08] : controller update book attempt successful : 200 OK
+[22_10__2023 01:28:18] : attempting to update : It
+[22_10__2023 01:28:18] : update attempt successful : It
+[22_10__2023 01:28:18] : updateupdate attempt  has ended : It
+[22_10__2023 01:28:18] : controller update book attempt successful : 200 OK
+[22_10__2023 01:29:22] : attempting to update : Watchmen
+[22_10__2023 01:29:22] : update attempt successful : Watchmen
+[22_10__2023 01:29:22] : updateupdate attempt  has ended : Watchmen
+[22_10__2023 01:29:22] : controller update book attempt successful : 200 OK
+[22_10__2023 01:31:24] : attempting to update : TEST
+[22_10__2023 01:31:24] : update attempt failed 
+[22_10__2023 01:31:24] : updateupdate attempt  has ended : TEST
+[22_10__2023 01:31:24] : controller update book attempt successful : 404 NOT_FOUND
+[22_10__2023 01:41:50] : attempting to login : jean@user.be
+[22_10__2023 01:41:50] : Log in attempt successful : jean@user.be
+[22_10__2023 01:41:50] : login attempt to login has ended : jean@user.be
+[22_10__2023 01:41:50] : controller login attempt successful : 200 OK
+[22_10__2023 01:42:31] : attempting to login : jean@adm.be
+[22_10__2023 01:42:31] : Log in attempt successful : jean@adm.be
+[22_10__2023 01:42:31] : login attempt to login has ended : jean@adm.be
+[22_10__2023 01:42:31] : controller login attempt successful : 200 OK
+[22_10__2023 01:43:04] : attempting to update : It
+[22_10__2023 01:43:04] : update attempt successful : It
+[22_10__2023 01:43:04] : updateupdate attempt  has ended : It
+[22_10__2023 01:43:04] : controller update book attempt successful : 200 OK
+[22_10__2023 01:43:11] : attempting to update : Watchmen
+[22_10__2023 01:43:11] : update attempt successful : Watchmen
+[22_10__2023 01:43:11] : updateupdate attempt  has ended : Watchmen
+[22_10__2023 01:43:11] : controller update book attempt successful : 200 OK
+[22_10__2023 01:43:20] : attempting to update : Watchmen
+[22_10__2023 01:43:20] : update attempt successful : Watchmen
+[22_10__2023 01:43:20] : updateupdate attempt  has ended : Watchmen
+[22_10__2023 01:43:20] : controller update book attempt successful : 200 OK
+[22_10__2023 01:43:34] : attempting to update : Watchmen
+[22_10__2023 01:43:34] : update attempt successful : Watchmen
+[22_10__2023 01:43:34] : updateupdate attempt  has ended : Watchmen
+[22_10__2023 01:43:34] : controller update book attempt successful : 200 OK
+[22_10__2023 01:44:10] : attempting to update : It
+[22_10__2023 01:44:10] : update attempt successful : It
+[22_10__2023 01:44:10] : updateupdate attempt  has ended : It
+[22_10__2023 01:44:10] : controller update book attempt successful : 200 OK
+[22_10__2023 01:45:37] : attempting to add book : Test
+[22_10__2023 01:45:37] : add book attempt successful : Test
+[22_10__2023 01:45:37] : addBookadd book attempt has ended : Test
+[22_10__2023 01:45:37] : controller update book attempt successful : 200 OK
+[22_10__2023 01:45:37] : controller add book attempt successful : 200 OK
+[22_10__2023 01:45:54] : attempting to delete book : 
+[22_10__2023 01:45:54] : deleteBookByIddelete book attempt has ended : 
+[22_10__2023 02:21:06] : attempting to login : jean@user.be
+[22_10__2023 02:21:06] : Log in attempt successful : jean@user.be
+[22_10__2023 02:21:06] : login attempt to login has ended : jean@user.be
+[22_10__2023 02:21:06] : controller login attempt successful : 200 OK
+[22_10__2023 02:21:17] : attempting to borrow a book : jean@user.be
+[22_10__2023 02:21:17] : borrow book attempt successful : jean@user.be
+[22_10__2023 02:21:17] : borrowBookborrow book attempt has ended : jean@user.be
+[22_10__2023 02:21:24] : attempting to renew Borrowed Book : jean@user.be
+[22_10__2023 02:21:24] : renew borrowed book attempt successful : jean@user.be
+[22_10__2023 02:21:24] : renewBorrowedBookrenew borrowed book attempt has ended : jean@user.be
+[22_10__2023 02:21:28] : attempting to return Borrowed Book : 50
+[22_10__2023 02:21:28] : return borrowed book attempt successful 
+[22_10__2023 02:24:46] : attempting to borrow a book : jean@user.be
+[22_10__2023 02:24:46] : borrow book attempt successful : jean@user.be
+[22_10__2023 02:24:46] : borrowBookborrow book attempt has ended : jean@user.be
+[22_10__2023 02:24:53] : attempting to renew Borrowed Book : jean@user.be
+[22_10__2023 02:24:53] : renew borrowed book attempt successful : jean@user.be
+[22_10__2023 02:24:53] : renewBorrowedBookrenew borrowed book attempt has ended : jean@user.be
+[22_10__2023 02:24:56] : attempting to return Borrowed Book : 51
+[22_10__2023 02:24:56] : return borrowed book attempt successful 
+[22_10__2023 13:55:27] : attempting to login : jean@user.be
+[22_10__2023 13:55:27] : Log in attempt successful : jean@user.be
+[22_10__2023 13:55:27] : login attempt to login has ended : jean@user.be
+[22_10__2023 13:55:27] : controller login attempt successful : 200 OK
+[22_10__2023 13:55:35] : attempting to borrow a book : jean@user.be
+[22_10__2023 13:55:35] : borrow book attempt successful : jean@user.be
+[22_10__2023 13:55:35] : borrowBookborrow book attempt has ended : jean@user.be
+[22_10__2023 13:55:52] : attempting to return Borrowed Book : 54
+[22_10__2023 13:55:52] : return borrowed book attempt successful 
+[22_10__2023 14:00:36] : attempting to borrow a book : jean@user.be
+[22_10__2023 14:00:36] : borrow book attempt successful : jean@user.be
+[22_10__2023 14:00:36] : borrowBookborrow book attempt has ended : jean@user.be
+[22_10__2023 14:00:44] : attempting to return Borrowed Book : 55
+[22_10__2023 14:00:44] : return borrowed book attempt successful 
+[22_10__2023 14:07:18] : attempting to borrow a book : jean@user.be
+[22_10__2023 14:07:18] : borrow book attempt successful : jean@user.be
+[22_10__2023 14:07:18] : borrowBookborrow book attempt has ended : jean@user.be
+[22_10__2023 14:07:23] : attempting to return Borrowed Book : 56
+[22_10__2023 14:07:23] : return borrowed book attempt successful 
+[22_10__2023 14:16:19] : attempting to borrow a book : jean@user.be
+[22_10__2023 14:16:19] : borrow book attempt successful : jean@user.be
+[22_10__2023 14:16:19] : borrowBookborrow book attempt has ended : jean@user.be
+[22_10__2023 14:16:25] : attempting to return Borrowed Book : 
+[22_10__2023 14:16:25] : return borrowed book attempt successful 
+[22_10__2023 14:16:25] : returnBorrowedBookreturn borrowed book attempt has ended : 
+[22_10__2023 14:23:03] : attempting to borrow a book : jean@user.be
+[22_10__2023 14:23:03] : borrow book attempt successful : jean@user.be
+[22_10__2023 14:23:03] : borrowBookborrow book attempt has ended : jean@user.be
+[22_10__2023 14:23:08] : attempting to return Borrowed Book : 59
+[22_10__2023 14:23:08] : return borrowed book attempt successful 
+[22_10__2023 14:23:08] : returnBorrowedBookreturn borrowed book attempt has ended : 
+[22_10__2023 14:50:49] : attempting to login : jean@user.be
+[22_10__2023 14:50:49] : Log in attempt successful : jean@user.be
+[22_10__2023 14:50:49] : login attempt to login has ended : jean@user.be
+[22_10__2023 14:50:49] : controller login attempt successful : 200 OK
+[22_10__2023 14:52:19] : attempting to login : jean@adm.be
+[22_10__2023 14:52:19] : Log in attempt successful : jean@adm.be
+[22_10__2023 14:52:19] : login attempt to login has ended : jean@adm.be
+[22_10__2023 14:52:19] : controller login attempt successful : 200 OK
+[22_10__2023 14:52:37] : attempting to update : ITo
+[22_10__2023 14:52:37] : update attempt successful : ITo
+[22_10__2023 14:52:37] : updateupdate attempt  has ended : ITo
+[22_10__2023 14:52:37] : controller update book attempt successful : 200 OK
+[22_10__2023 14:56:11] : attempting to add book : test
+[22_10__2023 14:56:11] : add book attempt successful : test
+[22_10__2023 14:56:11] : addBookadd book attempt has ended : test
+[22_10__2023 14:56:11] : controller update book attempt successful : 200 OK
+[22_10__2023 14:56:11] : controller add book attempt successful : 200 OK
+[22_10__2023 14:56:29] : attempting to delete book : 67
+[22_10__2023 14:56:29] : delete book attempt successful : 67
+[22_10__2023 14:56:29] : deleteBookByIddelete book attempt has ended : 67
+[22_10__2023 14:56:35] : attempting to add book : 
+[22_10__2023 14:56:35] : add book attempt successful : 
+[22_10__2023 14:56:35] : addBookadd book attempt has ended : 
+[22_10__2023 14:56:35] : controller update book attempt successful : 200 OK
+[22_10__2023 14:56:35] : controller add book attempt successful : 200 OK
+[22_10__2023 14:56:50] : attempting to delete book : 68
+[22_10__2023 14:56:50] : delete book attempt successful : 68
+[22_10__2023 14:56:50] : deleteBookByIddelete book attempt has ended : 68
+[22_10__2023 14:57:40] : attempting to login : 
+[22_10__2023 14:57:40] : log in attempt failed : no user found
+[22_10__2023 14:57:40] : login attempt to login has ended : 
+[22_10__2023 14:57:40] : controller login attempt successful : 404 NOT_FOUND
+[22_10__2023 14:57:50] : controller create account attempt failed : class java.lang.String cannot be cast to class be.intecbrussel.bookapi.model.dto.LoginRequest (java.lang.String is in module java.base of loader 'bootstrap'; be.intecbrussel.bookapi.model.dto.LoginRequest is in unnamed module of loader org.springframework.boot.devtools.restart.classloader.RestartClassLoader @b0a6861)
+[22_10__2023 14:58:55] : controller create account attempt failed : class java.lang.String cannot be cast to class be.intecbrussel.bookapi.model.dto.LoginRequest (java.lang.String is in module java.base of loader 'bootstrap'; be.intecbrussel.bookapi.model.dto.LoginRequest is in unnamed module of loader org.springframework.boot.devtools.restart.classloader.RestartClassLoader @b0a6861)
+[22_10__2023 15:06:42] : controller create account attempt failed : class java.lang.String cannot be cast to class be.intecbrussel.bookapi.model.dto.LoginRequest (java.lang.String is in module java.base of loader 'bootstrap'; be.intecbrussel.bookapi.model.dto.LoginRequest is in unnamed module of loader org.springframework.boot.devtools.restart.classloader.RestartClassLoader @5ef80364)
+[22_10__2023 15:07:13] : controller create account attempt failed : class java.lang.String cannot be cast to class be.intecbrussel.bookapi.model.dto.LoginRequest (java.lang.String is in module java.base of loader 'bootstrap'; be.intecbrussel.bookapi.model.dto.LoginRequest is in unnamed module of loader org.springframework.boot.devtools.restart.classloader.RestartClassLoader @5ef80364)
+[22_10__2023 15:09:22] : controller create account attempt failed : class java.lang.String cannot be cast to class be.intecbrussel.bookapi.model.dto.LoginRequest (java.lang.String is in module java.base of loader 'bootstrap'; be.intecbrussel.bookapi.model.dto.LoginRequest is in unnamed module of loader org.springframework.boot.devtools.restart.classloader.RestartClassLoader @5ef80364)
+[22_10__2023 15:18:25] : attempting to Creat account : HELLO
+[22_10__2023 15:18:25] : createUser attempt to creat account has ended : HELLO
+[22_10__2023 15:18:25] : controller create account attempt successful : 200 OK
+[22_10__2023 15:18:53] : attempting to Creat account : null
+[22_10__2023 15:18:53] : creat account attempt failed : null
+[22_10__2023 15:18:53] : creat account attempt failed : rawPassword cannot be null
+[22_10__2023 15:18:53] : createUser attempt to creat account has ended : null
+[22_10__2023 15:18:53] : controller create account attempt failed : rawPassword cannot be null
+[22_10__2023 15:19:02] : attempting to Creat account : 
+[22_10__2023 15:19:02] : createUser attempt to creat account has ended : 
+[22_10__2023 15:19:02] : controller create account attempt successful : 200 OK
+[22_10__2023 15:24:08] : attempting to Creat account : hello@world.be
+[22_10__2023 15:24:09] : createUser attempt to creat account has ended : hello@world.be
+[22_10__2023 15:24:09] : controller create account attempt successful : 400 BAD_REQUEST
+[22_10__2023 15:24:30] : attempting to Creat account : hello@world2.be
+[22_10__2023 15:24:30] : createUser attempt to creat account has ended : hello@world2.be
+[22_10__2023 15:24:30] : controller create account attempt successful : 200 OK
+[22_10__2023 15:31:01] : attempting to login : jean@user.be
+[22_10__2023 15:31:01] : Log in attempt successful : jean@user.be
+[22_10__2023 15:31:01] : login attempt to login has ended : jean@user.be
+[22_10__2023 15:31:01] : controller login attempt successful : 200 OK
+[22_10__2023 15:36:11] : attempting to borrow a book : jean@user.be
+[22_10__2023 15:36:11] : borrow book attempt successful : jean@user.be
+[22_10__2023 15:36:11] : borrowBookborrow book attempt has ended : jean@user.be
+[22_10__2023 15:36:13] : attempting to renew Borrowed Book : jean@user.be
+[22_10__2023 15:36:13] : renew borrowed book attempt successful : jean@user.be
+[22_10__2023 15:36:13] : renewBorrowedBookrenew borrowed book attempt has ended : jean@user.be
+[22_10__2023 15:36:15] : attempting to return Borrowed Book : 60
+[22_10__2023 15:36:15] : return borrowed book attempt successful 60
+[22_10__2023 15:36:15] : returnBorrowedBookreturn borrowed book attempt has ended : 60
+[22_10__2023 15:36:37] : attempting to login : jean@adm.be
+[22_10__2023 15:36:37] : Log in attempt successful : jean@adm.be
+[22_10__2023 15:36:37] : login attempt to login has ended : jean@adm.be
+[22_10__2023 15:36:37] : controller login attempt successful : 200 OK
+[22_10__2023 15:36:53] : attempting to update : It
+[22_10__2023 15:36:53] : update attempt successful : It
+[22_10__2023 15:36:53] : updateupdate attempt  has ended : It
+[22_10__2023 15:36:53] : controller update book attempt successful : 200 OK
+[22_10__2023 15:37:07] : attempting to add book : 
+[22_10__2023 15:37:07] : add book attempt successful : 
+[22_10__2023 15:37:07] : addBookadd book attempt has ended : 
+[22_10__2023 15:37:07] : controller update book attempt successful : 200 OK
+[22_10__2023 15:37:07] : controller add book attempt successful : 200 OK
+[22_10__2023 15:37:12] : attempting to delete book : 69
+[22_10__2023 15:37:12] : delete book attempt successful : 69
+[22_10__2023 15:37:12] : deleteBookByIddelete book attempt has ended : 69
+[22_10__2023 15:49:13] : attempting to login : dhsjdhsjd
+[22_10__2023 15:49:14] : Log in attempt successful : dhsjdhsjd
+[22_10__2023 15:49:14] : login attempt to login has ended : dhsjdhsjd
+[22_10__2023 15:49:14] : controller login attempt successful : 200 OK
+[22_10__2023 16:22:09] : attempting to login : jean@adm.be
+[22_10__2023 16:22:09] : Log in attempt successful : jean@adm.be
+[22_10__2023 16:22:09] : login attempt to login has ended : jean@adm.be
+[22_10__2023 16:22:09] : controller login attempt successful : 200 OK
+[22_10__2023 16:23:15] : attempting to add book : 
+[22_10__2023 16:23:15] : add book attempt successful : 
+[22_10__2023 16:23:15] : addBookadd book attempt has ended : 
+[22_10__2023 16:23:15] : controller update book attempt successful : 200 OK
+[22_10__2023 16:23:15] : controller add book attempt successful : 200 OK
+[22_10__2023 16:23:44] : attempting to delete book : 70
+[22_10__2023 16:23:44] : delete book attempt successful : 70
+[22_10__2023 16:23:44] : deleteBookByIddelete book attempt has ended : 70
+[22_10__2023 16:23:55] : attempting to add book : 
+[22_10__2023 16:23:55] : add book attempt successful : 
+[22_10__2023 16:23:55] : addBookadd book attempt has ended : 
+[22_10__2023 16:23:55] : controller update book attempt successful : 200 OK
+[22_10__2023 16:23:55] : controller add book attempt successful : 200 OK
+[22_10__2023 16:24:09] : attempting to delete book : 71
+[22_10__2023 16:24:09] : delete book attempt successful : 71
+[22_10__2023 16:24:09] : deleteBookByIddelete book attempt has ended : 71
+[22_10__2023 16:30:32] : attempting to add book : 
+[22_10__2023 16:30:32] : add book attempt successful : 
+[22_10__2023 16:30:32] : addBookadd book attempt has ended : 
+[22_10__2023 16:30:32] : controller update book attempt successful : 200 OK
+[22_10__2023 16:30:32] : controller add book attempt successful : 200 OK
+[22_10__2023 16:30:42] : attempting to delete book : 72
+[22_10__2023 16:30:42] : delete book attempt successful : 72
+[22_10__2023 16:30:42] : deleteBookByIddelete book attempt has ended : 72
+[22_10__2023 21:02:20] : attempting to update : It
+[22_10__2023 21:02:20] : update attempt successful : It
+[22_10__2023 21:02:20] : updateupdate attempt  has ended : It
+[22_10__2023 21:02:20] : controller update book attempt successful : 200 OK
+[22_10__2023 21:05:05] : attempting to update : It
+[22_10__2023 21:05:05] : update attempt successful : It
+[22_10__2023 21:05:05] : updateupdate attempt  has ended : It
+[22_10__2023 21:05:05] : controller update book attempt successful : 200 OK
+[22_10__2023 21:57:45] : attempting to login : jean@user.be
+[22_10__2023 21:57:45] : Log in attempt successful : jean@user.be
+[22_10__2023 21:57:45] : login attempt to login has ended : jean@user.be
+[22_10__2023 21:57:45] : controller login attempt successful : 200 OK
+[22_10__2023 21:58:19] : attempting to login : jean@adm.be
+[22_10__2023 21:58:19] : log in attempt failed : jean@adm.be
+[22_10__2023 21:58:19] : log in attempt failed : Bad credentials
+[22_10__2023 21:58:19] : login attempt to login has ended : jean@adm.be
+[22_10__2023 21:58:19] : controller login attempt successful : 400 BAD_REQUEST
+[22_10__2023 21:58:38] : attempting to login : jean@adm.be
+[22_10__2023 21:58:38] : Log in attempt successful : jean@adm.be
+[22_10__2023 21:58:38] : login attempt to login has ended : jean@adm.be
+[22_10__2023 21:58:38] : controller login attempt successful : 200 OK
+[22_10__2023 23:24:41] : attempting to Creat account : j@b.c
+[22_10__2023 23:24:42] : createUser attempt to creat account has ended : j@b.c
+[22_10__2023 23:24:42] : controller create account attempt successful : 200 OK
+[22_10__2023 23:28:51] : attempting to Creat account : hello@world.be
+[22_10__2023 23:28:51] : createUser attempt to creat account has ended : hello@world.be
+[22_10__2023 23:28:51] : controller create account attempt successful : 400 BAD_REQUEST
+[22_10__2023 23:29:27] : attempting to Creat account : hello@world.com
+[22_10__2023 23:29:27] : createUser attempt to creat account has ended : hello@world.com
+[22_10__2023 23:29:27] : controller create account attempt successful : 200 OK
+[22_10__2023 23:29:32] : attempting to Creat account : hello@world.com
+[22_10__2023 23:29:32] : createUser attempt to creat account has ended : hello@world.com
+[22_10__2023 23:29:32] : controller create account attempt successful : 400 BAD_REQUEST
+[22_10__2023 23:39:58] : attempting to login : jean@adm.be
+[22_10__2023 23:39:58] : log in attempt failed : jean@adm.be
+[22_10__2023 23:39:58] : log in attempt failed : Bad credentials
+[22_10__2023 23:39:58] : login attempt to login has ended : jean@adm.be
+[22_10__2023 23:39:58] : controller login attempt successful : 400 BAD_REQUEST
+[22_10__2023 23:40:14] : attempting to login : jean@adm.be
+[22_10__2023 23:40:14] : Log in attempt successful : jean@adm.be
+[22_10__2023 23:40:14] : login attempt to login has ended : jean@adm.be
+[22_10__2023 23:40:14] : controller login attempt successful : 200 OK
+[22_10__2023 23:43:50] : attempting to add book : TEST
+[22_10__2023 23:43:50] : add book attempt successful : TEST
+[22_10__2023 23:43:50] : addBookadd book attempt has ended : TEST
+[22_10__2023 23:43:50] : controller update book attempt successful : 200 OK
+[22_10__2023 23:43:50] : controller add book attempt successful : 200 OK
+[22_10__2023 23:44:38] : attempting to add book : TEST
+[22_10__2023 23:44:38] : to add book attempt failed 
+[22_10__2023 23:44:38] : addBookadd book attempt has ended : TEST
+[22_10__2023 23:44:38] : controller update book attempt successful : 422 UNPROCESSABLE_ENTITY
+[22_10__2023 23:44:38] : controller add book attempt successful : 422 UNPROCESSABLE_ENTITY
+[22_10__2023 23:45:37] : attempting to add book : TEST1
+[22_10__2023 23:45:37] : add book attempt successful : TEST1
+[22_10__2023 23:45:37] : addBookadd book attempt has ended : TEST1
+[22_10__2023 23:45:37] : controller update book attempt successful : 200 OK
+[22_10__2023 23:45:37] : controller add book attempt successful : 200 OK
+[22_10__2023 23:47:53] : attempting to add book : TEST3
+[22_10__2023 23:47:53] : add book attempt successful : TEST3
+[22_10__2023 23:47:53] : addBookadd book attempt has ended : TEST3
+[22_10__2023 23:47:53] : controller update book attempt successful : 200 OK
+[22_10__2023 23:47:53] : controller add book attempt successful : 200 OK
+[22_10__2023 23:50:24] : attempting to add book : TEST4
+[22_10__2023 23:50:24] : add book attempt successful : TEST4
+[22_10__2023 23:50:24] : addBookadd book attempt has ended : TEST4
+[22_10__2023 23:50:24] : controller update book attempt successful : 200 OK
+[22_10__2023 23:50:24] : controller add book attempt successful : 200 OK
+[22_10__2023 23:51:45] : attempting to add book : TEST5
+[22_10__2023 23:51:45] : add book attempt successful : TEST5
+[22_10__2023 23:51:45] : addBookadd book attempt has ended : TEST5
+[22_10__2023 23:51:45] : controller update book attempt successful : 200 OK
+[22_10__2023 23:51:45] : controller add book attempt successful : 200 OK
+[22_10__2023 23:53:20] : attempting to add book : test
+[22_10__2023 23:53:20] : to add book attempt failed 
+[22_10__2023 23:53:20] : addBookadd book attempt has ended : test
+[22_10__2023 23:53:20] : controller update book attempt successful : 422 UNPROCESSABLE_ENTITY
+[22_10__2023 23:53:20] : controller add book attempt successful : 422 UNPROCESSABLE_ENTITY
+[22_10__2023 23:54:24] : attempting to add book : test1
+[22_10__2023 23:54:24] : to add book attempt failed 
+[22_10__2023 23:54:24] : addBookadd book attempt has ended : test1
+[22_10__2023 23:54:24] : controller update book attempt successful : 422 UNPROCESSABLE_ENTITY
+[22_10__2023 23:54:24] : controller add book attempt successful : 422 UNPROCESSABLE_ENTITY
+[22_10__2023 23:55:19] : attempting to add book : TEST2
+[22_10__2023 23:55:19] : add book attempt successful : TEST2
+[22_10__2023 23:55:19] : addBookadd book attempt has ended : TEST2
+[22_10__2023 23:55:19] : controller update book attempt successful : 200 OK
+[22_10__2023 23:55:19] : controller add book attempt successful : 200 OK
+[22_10__2023 23:56:56] : attempting to add book : TEST6
+[22_10__2023 23:56:56] : add book attempt successful : TEST6
+[22_10__2023 23:56:56] : addBookadd book attempt has ended : TEST6
+[22_10__2023 23:56:56] : controller update book attempt successful : 200 OK
+[22_10__2023 23:56:56] : controller add book attempt successful : 200 OK
+[22_10__2023 23:58:50] : attempting to add book : TEST7
+[22_10__2023 23:58:50] : add book attempt successful : TEST7
+[22_10__2023 23:58:50] : addBookadd book attempt has ended : TEST7
+[22_10__2023 23:58:50] : controller update book attempt successful : 200 OK
+[22_10__2023 23:58:50] : controller add book attempt successful : 200 OK

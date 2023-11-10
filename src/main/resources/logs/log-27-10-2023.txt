@@ -1,0 +1,163 @@
+[27_10__2023 07:35:11] : attempting to login : jean@user.be
+[27_10__2023 07:35:11] : Log in attempt successful : jean@user.be
+[27_10__2023 07:35:11] : login attempt to login has ended : jean@user.be
+[27_10__2023 07:35:11] : controller login attempt successful : 200 OK
+[27_10__2023 07:36:02] : attempting to login : jean@adm.be
+[27_10__2023 07:36:02] : log in attempt failed : jean@adm.be
+[27_10__2023 07:36:02] : log in attempt failed : Bad credentials
+[27_10__2023 07:36:02] : login attempt to login has ended : jean@adm.be
+[27_10__2023 07:36:02] : controller login attempt successful : 400 BAD_REQUEST
+[27_10__2023 07:36:14] : attempting to login : jean@adm.be
+[27_10__2023 07:36:15] : log in attempt failed : jean@adm.be
+[27_10__2023 07:36:15] : log in attempt failed : Bad credentials
+[27_10__2023 07:36:15] : login attempt to login has ended : jean@adm.be
+[27_10__2023 07:36:15] : controller login attempt successful : 400 BAD_REQUEST
+[27_10__2023 07:36:39] : attempting to login : jean@adm.be
+[27_10__2023 07:36:39] : log in attempt failed : jean@adm.be
+[27_10__2023 07:36:39] : log in attempt failed : Bad credentials
+[27_10__2023 07:36:39] : login attempt to login has ended : jean@adm.be
+[27_10__2023 07:36:39] : controller login attempt successful : 400 BAD_REQUEST
+[27_10__2023 07:36:54] : attempting to login : jean@adm.be
+[27_10__2023 07:36:55] : log in attempt failed : jean@adm.be
+[27_10__2023 07:36:55] : log in attempt failed : Bad credentials
+[27_10__2023 07:36:55] : login attempt to login has ended : jean@adm.be
+[27_10__2023 07:36:55] : controller login attempt successful : 400 BAD_REQUEST
+[27_10__2023 07:37:03] : attempting to login : jean@adm.be
+[27_10__2023 07:37:03] : log in attempt failed : jean@adm.be
+[27_10__2023 07:37:03] : log in attempt failed : Bad credentials
+[27_10__2023 07:37:03] : login attempt to login has ended : jean@adm.be
+[27_10__2023 07:37:03] : controller login attempt successful : 400 BAD_REQUEST
+[27_10__2023 07:37:08] : attempting to login : jean@adm.be
+[27_10__2023 07:37:08] : log in attempt failed : jean@adm.be
+[27_10__2023 07:37:08] : log in attempt failed : Bad credentials
+[27_10__2023 07:37:08] : login attempt to login has ended : jean@adm.be
+[27_10__2023 07:37:08] : controller login attempt successful : 400 BAD_REQUEST
+[27_10__2023 07:37:26] : attempting to login : jean@adm.be
+[27_10__2023 07:37:27] : log in attempt failed : jean@adm.be
+[27_10__2023 07:37:27] : log in attempt failed : Bad credentials
+[27_10__2023 07:37:27] : login attempt to login has ended : jean@adm.be
+[27_10__2023 07:37:27] : controller login attempt successful : 400 BAD_REQUEST
+[27_10__2023 07:37:41] : attempting to login : jean@adm.be
+[27_10__2023 07:37:41] : Log in attempt successful : jean@adm.be
+[27_10__2023 07:37:41] : login attempt to login has ended : jean@adm.be
+[27_10__2023 07:37:41] : controller login attempt successful : 200 OK
+[27_10__2023 09:23:52] : attempting to add book : The Girl with the Dragon Tattoo
+[27_10__2023 09:23:52] : add book attempt successful : The Girl with the Dragon Tattoo
+[27_10__2023 09:23:52] : addBookadd book attempt has ended : The Girl with the Dragon Tattoo
+[27_10__2023 09:23:52] : controller update book attempt successful : 200 OK
+[27_10__2023 09:23:52] : controller add book attempt successful : 200 OK
+[27_10__2023 09:25:44] : attempting to add book : Brave New World
+[27_10__2023 09:25:44] : add book attempt successful : Brave New World
+[27_10__2023 09:25:44] : addBookadd book attempt has ended : Brave New World
+[27_10__2023 09:25:44] : controller update book attempt successful : 200 OK
+[27_10__2023 09:25:44] : controller add book attempt successful : 200 OK
+[27_10__2023 09:32:05] : attempting to add book : The Shadow of the Wind
+[27_10__2023 09:32:05] : add book attempt successful : The Shadow of the Wind
+[27_10__2023 09:32:05] : addBookadd book attempt has ended : The Shadow of the Wind
+[27_10__2023 09:32:05] : controller update book attempt successful : 200 OK
+[27_10__2023 09:32:05] : controller add book attempt successful : 200 OK
+[27_10__2023 09:34:32] : attempting to add book : The Night Circus
+[27_10__2023 09:34:32] : add book attempt successful : The Night Circus
+[27_10__2023 09:34:32] : addBookadd book attempt has ended : The Night Circus
+[27_10__2023 09:34:32] : controller update book attempt successful : 200 OK
+[27_10__2023 09:34:32] : controller add book attempt successful : 200 OK
+[27_10__2023 09:37:48] : attempting to add book : The Kite Runner
+[27_10__2023 09:37:48] : add book attempt successful : The Kite Runner
+[27_10__2023 09:37:48] : addBookadd book attempt has ended : The Kite Runner
+[27_10__2023 09:37:48] : controller update book attempt successful : 200 OK
+[27_10__2023 09:37:48] : controller add book attempt successful : 200 OK
+[27_10__2023 09:41:39] : attempting to add book : The Count of Monte Cristo
+[27_10__2023 09:41:39] : add book attempt successful : The Count of Monte Cristo
+[27_10__2023 09:41:39] : addBookadd book attempt has ended : The Count of Monte Cristo
+[27_10__2023 09:41:39] : controller update book attempt successful : 200 OK
+[27_10__2023 09:41:39] : controller add book attempt successful : 200 OK
+[27_10__2023 09:46:05] : attempting to login : jean@user.be
+[27_10__2023 09:46:05] : Log in attempt successful : jean@user.be
+[27_10__2023 09:46:05] : login attempt to login has ended : jean@user.be
+[27_10__2023 09:46:05] : controller login attempt successful : 200 OK
+[27_10__2023 09:46:36] : attempting to login : jean@adm.be
+[27_10__2023 09:46:36] : Log in attempt successful : jean@adm.be
+[27_10__2023 09:46:36] : login attempt to login has ended : jean@adm.be
+[27_10__2023 09:46:36] : controller login attempt successful : 200 OK
+[27_10__2023 09:47:08] : attempting to login : jean@user.be
+[27_10__2023 09:47:08] : Log in attempt successful : jean@user.be
+[27_10__2023 09:47:08] : login attempt to login has ended : jean@user.be
+[27_10__2023 09:47:08] : controller login attempt successful : 200 OK
+[27_10__2023 10:40:40] : attempting to login : jean@user.be
+[27_10__2023 10:40:41] : log in attempt failed : jean@user.be
+[27_10__2023 10:40:41] : log in attempt failed : Bad credentials
+[27_10__2023 10:40:41] : login attempt to login has ended : jean@user.be
+[27_10__2023 10:40:41] : controller login attempt successful : 400 BAD_REQUEST
+[27_10__2023 10:40:49] : attempting to login : jean@user.be
+[27_10__2023 10:40:49] : Log in attempt successful : jean@user.be
+[27_10__2023 10:40:49] : login attempt to login has ended : jean@user.be
+[27_10__2023 10:40:49] : controller login attempt successful : 200 OK
+[27_10__2023 10:41:19] : attempting to borrow a book : jean@user.be
+[27_10__2023 10:41:19] : borrow book attempt successful : jean@user.be
+[27_10__2023 10:41:19] : borrowBookborrow book attempt has ended : jean@user.be
+[27_10__2023 10:41:52] : attempting to return Borrowed Book : 4
+[27_10__2023 10:41:52] : return borrowed book attempt successful 4
+[27_10__2023 10:41:52] : returnBorrowedBookreturn borrowed book attempt has ended : 4
+[27_10__2023 10:49:06] : attempting to login : jean@adm.be
+[27_10__2023 10:49:07] : Log in attempt successful : jean@adm.be
+[27_10__2023 10:49:07] : login attempt to login has ended : jean@adm.be
+[27_10__2023 10:49:07] : controller login attempt successful : 200 OK
+[27_10__2023 11:48:26] : attempting to Creat account : jean@mail.be
+[27_10__2023 11:48:26] : createUser attempt to creat account has ended : jean@mail.be
+[27_10__2023 11:48:26] : controller create account attempt successful : 200 OK
+[27_10__2023 11:48:57] : attempting to login : jean@mail.be
+[27_10__2023 11:48:58] : Log in attempt successful : jean@mail.be
+[27_10__2023 11:48:58] : login attempt to login has ended : jean@mail.be
+[27_10__2023 11:48:58] : controller login attempt successful : 200 OK
+[27_10__2023 11:49:24] : attempting to borrow a book : jean@mail.be
+[27_10__2023 11:49:25] : borrow book attempt successful : jean@mail.be
+[27_10__2023 11:49:25] : borrowBookborrow book attempt has ended : jean@mail.be
+[27_10__2023 11:49:47] : attempting to borrow a book : jean@mail.be
+[27_10__2023 11:49:47] : borrow book attempt successful : jean@mail.be
+[27_10__2023 11:49:47] : borrowBookborrow book attempt has ended : jean@mail.be
+[27_10__2023 11:49:53] : attempting to borrow a book : jean@mail.be
+[27_10__2023 11:49:53] : borrow book attempt successful : jean@mail.be
+[27_10__2023 11:49:53] : borrowBookborrow book attempt has ended : jean@mail.be
+[27_10__2023 11:50:00] : attempting to borrow a book : jean@mail.be
+[27_10__2023 11:50:00] : borrow book attempt successful : jean@mail.be
+[27_10__2023 11:50:00] : borrowBookborrow book attempt has ended : jean@mail.be
+[27_10__2023 11:50:25] : attempting to renew Borrowed Book : jean@mail.be
+[27_10__2023 11:50:25] : renew borrowed book attempt successful : jean@mail.be
+[27_10__2023 11:50:25] : renewBorrowedBookrenew borrowed book attempt has ended : jean@mail.be
+[27_10__2023 11:50:55] : attempting to return Borrowed Book : 5
+[27_10__2023 11:50:55] : return borrowed book attempt successful 5
+[27_10__2023 11:50:55] : returnBorrowedBookreturn borrowed book attempt has ended : 5
+[27_10__2023 11:51:01] : attempting to return Borrowed Book : 6
+[27_10__2023 11:51:01] : return borrowed book attempt successful 6
+[27_10__2023 11:51:01] : returnBorrowedBookreturn borrowed book attempt has ended : 6
+[27_10__2023 11:51:17] : attempting to return Borrowed Book : 7
+[27_10__2023 11:51:17] : return borrowed book attempt successful 7
+[27_10__2023 11:51:17] : returnBorrowedBookreturn borrowed book attempt has ended : 7
+[27_10__2023 11:51:19] : attempting to return Borrowed Book : 8
+[27_10__2023 11:51:19] : return borrowed book attempt successful 8
+[27_10__2023 11:51:19] : returnBorrowedBookreturn borrowed book attempt has ended : 8
+[27_10__2023 11:52:02] : attempting to login : jean@adm.be
+[27_10__2023 11:52:02] : log in attempt failed : jean@adm.be
+[27_10__2023 11:52:02] : log in attempt failed : Bad credentials
+[27_10__2023 11:52:03] : login attempt to login has ended : jean@adm.be
+[27_10__2023 11:52:03] : controller login attempt successful : 400 BAD_REQUEST
+[27_10__2023 11:52:28] : attempting to login : jean@adm.be
+[27_10__2023 11:52:28] : Log in attempt successful : jean@adm.be
+[27_10__2023 11:52:28] : login attempt to login has ended : jean@adm.be
+[27_10__2023 11:52:28] : controller login attempt successful : 200 OK
+[27_10__2023 11:53:48] : attempting to add book : Test
+[27_10__2023 11:53:48] : add book attempt successful : Test
+[27_10__2023 11:53:48] : addBookadd book attempt has ended : Test
+[27_10__2023 11:53:48] : controller update book attempt successful : 200 OK
+[27_10__2023 11:53:48] : controller add book attempt successful : 200 OK
+[27_10__2023 11:54:34] : attempting to update : TEST
+[27_10__2023 11:54:34] : update attempt successful : TEST
+[27_10__2023 11:54:34] : updateupdate attempt  has ended : TEST
+[27_10__2023 11:54:34] : controller update book attempt successful : 200 OK
+[27_10__2023 11:54:53] : attempting to delete book : 26
+[27_10__2023 11:54:53] : delete book attempt successful : 26
+[27_10__2023 11:54:53] : deleteBookByIddelete book attempt has ended : 26
+[27_10__2023 11:56:31] : attempting to login : jean@user.be
+[27_10__2023 11:56:31] : Log in attempt successful : jean@user.be
+[27_10__2023 11:56:31] : login attempt to login has ended : jean@user.be
+[27_10__2023 11:56:31] : controller login attempt successful : 200 OK

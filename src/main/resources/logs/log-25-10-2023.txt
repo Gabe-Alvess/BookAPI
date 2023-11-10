@@ -1,0 +1,36 @@
+[25_10__2023 16:50:13] : attempting to login : jean@user.be
+[25_10__2023 16:50:13] : log in attempt failed : jean@user.be
+[25_10__2023 16:50:13] : log in attempt failed : Bad credentials
+[25_10__2023 16:50:14] : login attempt to login has ended : jean@user.be
+[25_10__2023 16:50:14] : controller login attempt successful : 400 BAD_REQUEST
+[25_10__2023 16:50:27] : attempting to login : jean@user.be
+[25_10__2023 16:50:27] : log in attempt failed : jean@user.be
+[25_10__2023 16:50:27] : log in attempt failed : Bad credentials
+[25_10__2023 16:50:27] : login attempt to login has ended : jean@user.be
+[25_10__2023 16:50:27] : controller login attempt successful : 400 BAD_REQUEST
+[25_10__2023 16:50:40] : attempting to login : jean@user.be
+[25_10__2023 16:50:40] : log in attempt failed : jean@user.be
+[25_10__2023 16:50:40] : log in attempt failed : Bad credentials
+[25_10__2023 16:50:40] : login attempt to login has ended : jean@user.be
+[25_10__2023 16:50:40] : controller login attempt successful : 400 BAD_REQUEST
+[25_10__2023 16:50:45] : attempting to login : jean@user.be
+[25_10__2023 16:50:45] : log in attempt failed : jean@user.be
+[25_10__2023 16:50:45] : log in attempt failed : Bad credentials
+[25_10__2023 16:50:45] : login attempt to login has ended : jean@user.be
+[25_10__2023 16:50:45] : controller login attempt successful : 400 BAD_REQUEST
+[25_10__2023 16:51:04] : attempting to login : jean@user.be
+[25_10__2023 16:51:04] : Log in attempt successful : jean@user.be
+[25_10__2023 16:51:04] : login attempt to login has ended : jean@user.be
+[25_10__2023 16:51:04] : controller login attempt successful : 200 OK
+[25_10__2023 16:56:59] : attempting to login : jean@user.be
+[25_10__2023 16:56:59] : Log in attempt successful : jean@user.be
+[25_10__2023 16:56:59] : login attempt to login has ended : jean@user.be
+[25_10__2023 16:56:59] : controller login attempt successful : 200 OK
+[25_10__2023 16:57:28] : attempting to login : jean@adm.be
+[25_10__2023 16:57:28] : Log in attempt successful : jean@adm.be
+[25_10__2023 16:57:28] : login attempt to login has ended : jean@adm.be
+[25_10__2023 16:57:28] : controller login attempt successful : 200 OK
+[25_10__2023 17:08:35] : attempting to login : jean@user.be
+[25_10__2023 17:08:35] : Log in attempt successful : jean@user.be
+[25_10__2023 17:08:35] : login attempt to login has ended : jean@user.be
+[25_10__2023 17:08:35] : controller login attempt successful : 200 OK
