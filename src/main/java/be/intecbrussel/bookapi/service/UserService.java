@@ -33,18 +33,18 @@ public class UserService {
         userRepository.saveAndFlush(user);
     }
 
-    public void addProfilePhoto(MultipartFile file, String email) throws Exception {
-        Optional<AuthUser> optionalUser = findUser(email);
-
-        if (optionalUser.isEmpty()) {
-            throw new Exception("User Not Found!");
-        }
-
-        AuthUser user = optionalUser.get();
-
-        user.setProfilePhoto(file.getBytes());
-        userRepository.flush();
-    }
+//    public void addProfilePhoto(MultipartFile file, String email) throws Exception {
+//        Optional<AuthUser> optionalUser = findUser(email);
+//
+//        if (optionalUser.isEmpty()) {
+//            throw new Exception("User Not Found!");
+//        }
+//
+//        AuthUser user = optionalUser.get();
+//
+//        user.setProfilePhoto(file.getBytes());
+//        userRepository.flush();
+//    }
 
 //    public byte[] getProfilePhoto(String email) throws Exception {
 //        Optional<AuthUser> optionalUser = findUser(email);

@@ -1,0 +1,263 @@
+[10_10__2024 15:43:51] : attempting to login : gabe@email.com
+[10_10__2024 15:43:52] : Log in attempt successful : gabe@email.com
+[10_10__2024 15:43:52] : login attempt to login has ended : gabe@email.com
+[10_10__2024 15:43:52] : controller login attempt successful : 200 OK
+[10_10__2024 15:44:04] : attempting to borrow a book : gabe@email.com
+[10_10__2024 15:44:04] : borrow book attempt successful : gabe@email.com
+[10_10__2024 15:44:04] : borrowBookborrow book attempt has ended : gabe@email.com
+[10_10__2024 15:44:19] : attempting to return Borrowed Book : 85
+[10_10__2024 15:44:19] : return borrowed book attempt successful 85
+[10_10__2024 15:44:19] : returnBorrowedBookreturn borrowed book attempt has ended : 85
+[10_10__2024 16:02:30] : attempting to borrow a book : gabe@email.com
+[10_10__2024 16:02:30] : borrow book attempt successful : gabe@email.com
+[10_10__2024 16:02:30] : borrowBookborrow book attempt has ended : gabe@email.com
+[10_10__2024 16:02:39] : attempting to return Borrowed Book : 86
+[10_10__2024 16:02:39] : return borrowed book attempt successful 86
+[10_10__2024 16:02:39] : returnBorrowedBookreturn borrowed book attempt has ended : 86
+[10_10__2024 16:11:35] : attempting to borrow a book : gabe@email.com
+[10_10__2024 16:11:35] : borrow book attempt successful : gabe@email.com
+[10_10__2024 16:11:35] : borrowBookborrow book attempt has ended : gabe@email.com
+[10_10__2024 16:11:47] : attempting to return Borrowed Book : 87
+[10_10__2024 16:11:47] : return borrowed book attempt successful 87
+[10_10__2024 16:11:47] : returnBorrowedBookreturn borrowed book attempt has ended : 87
+[10_10__2024 16:36:10] : attempting to login : gabe@email.com
+[10_10__2024 16:36:10] : log in attempt failed : gabe@email.com
+[10_10__2024 16:36:10] : log in attempt failed : Bad credentials
+[10_10__2024 16:36:10] : login attempt to login has ended : gabe@email.com
+[10_10__2024 16:36:10] : controller login attempt successful : 400 BAD_REQUEST
+[10_10__2024 16:36:16] : attempting to login : gabe@email.com
+[10_10__2024 16:36:16] : Log in attempt successful : gabe@email.com
+[10_10__2024 16:36:16] : login attempt to login has ended : gabe@email.com
+[10_10__2024 16:36:16] : controller login attempt successful : 200 OK
+[10_10__2024 16:36:24] : attempting to borrow a book : gabe@email.com
+[10_10__2024 16:36:24] : borrow book attempt successful : gabe@email.com
+[10_10__2024 16:36:24] : borrowBookborrow book attempt has ended : gabe@email.com
+[10_10__2024 16:37:09] : attempting to return Borrowed Book : 88
+[10_10__2024 16:37:09] : return borrowed book attempt successful 88
+[10_10__2024 16:37:09] : returnBorrowedBookreturn borrowed book attempt has ended : 88
+[10_10__2024 16:41:06] : attempting to login : bob@adm.be
+[10_10__2024 16:41:06] : Log in attempt successful : bob@adm.be
+[10_10__2024 16:41:06] : login attempt to login has ended : bob@adm.be
+[10_10__2024 16:41:06] : controller login attempt successful : 200 OK
+[10_10__2024 16:42:25] : attempting to update : It
+[10_10__2024 16:42:25] : update attempt successful : It
+[10_10__2024 16:42:25] : updateupdate attempt  has ended : It
+[10_10__2024 16:42:25] : controller update book attempt successful : 200 OK
+[10_10__2024 16:42:42] : attempting to update : It
+[10_10__2024 16:42:42] : update attempt successful : It
+[10_10__2024 16:42:42] : updateupdate attempt  has ended : It
+[10_10__2024 16:42:43] : controller update book attempt successful : 200 OK
+[10_10__2024 16:43:01] : attempting to update : It
+[10_10__2024 16:43:01] : update attempt successful : It
+[10_10__2024 16:43:01] : updateupdate attempt  has ended : It
+[10_10__2024 16:43:01] : controller update book attempt successful : 200 OK
+[10_10__2024 16:43:12] : attempting to update : It
+[10_10__2024 16:43:12] : update attempt successful : It
+[10_10__2024 16:43:12] : updateupdate attempt  has ended : It
+[10_10__2024 16:43:12] : controller update book attempt successful : 200 OK
+[10_10__2024 16:43:29] : attempting to update : Stephen King It
+[10_10__2024 16:43:29] : update attempt successful : Stephen King It
+[10_10__2024 16:43:29] : updateupdate attempt  has ended : Stephen King It
+[10_10__2024 16:43:29] : controller update book attempt successful : 200 OK
+[10_10__2024 16:43:53] : attempting to update : It
+[10_10__2024 16:43:53] : update attempt successful : It
+[10_10__2024 16:43:53] : updateupdate attempt  has ended : It
+[10_10__2024 16:43:53] : controller update book attempt successful : 200 OK
+[10_10__2024 16:44:12] : attempting to update : It
+[10_10__2024 16:44:12] : update attempt successful : It
+[10_10__2024 16:44:12] : updateupdate attempt  has ended : It
+[10_10__2024 16:44:12] : controller update book attempt successful : 200 OK
+[10_10__2024 16:45:01] : attempting to update : It
+[10_10__2024 16:45:01] : update attempt successful : It
+[10_10__2024 16:45:01] : updateupdate attempt  has ended : It
+[10_10__2024 16:45:01] : controller update book attempt successful : 200 OK
+[10_10__2024 16:45:51] : attempting to update : It
+[10_10__2024 16:45:51] : update attempt successful : It
+[10_10__2024 16:45:51] : updateupdate attempt  has ended : It
+[10_10__2024 16:45:51] : controller update book attempt successful : 200 OK
+[10_10__2024 16:47:48] : attempting to login : bob@adm.be
+[10_10__2024 16:47:48] : Log in attempt successful : bob@adm.be
+[10_10__2024 16:47:48] : login attempt to login has ended : bob@adm.be
+[10_10__2024 16:47:48] : controller login attempt successful : 200 OK
+[10_10__2024 16:48:59] : attempting to update : It
+[10_10__2024 16:48:59] : update attempt successful : It
+[10_10__2024 16:48:59] : updateupdate attempt  has ended : It
+[10_10__2024 16:48:59] : controller update book attempt successful : 200 OK
+[10_10__2024 16:49:14] : attempting to update : It
+[10_10__2024 16:49:14] : update attempt successful : It
+[10_10__2024 16:49:14] : updateupdate attempt  has ended : It
+[10_10__2024 16:49:14] : controller update book attempt successful : 200 OK
+[10_10__2024 16:49:48] : attempting to update : It
+[10_10__2024 16:49:48] : update attempt successful : It
+[10_10__2024 16:49:48] : updateupdate attempt  has ended : It
+[10_10__2024 16:49:48] : controller update book attempt successful : 200 OK
+[10_10__2024 16:50:13] : attempting to update : It
+[10_10__2024 16:50:13] : update attempt successful : It
+[10_10__2024 16:50:13] : updateupdate attempt  has ended : It
+[10_10__2024 16:50:13] : controller update book attempt successful : 200 OK
+[10_10__2024 16:50:51] : attempting to update : Stephen King It
+[10_10__2024 16:50:51] : update attempt successful : Stephen King It
+[10_10__2024 16:50:51] : updateupdate attempt  has ended : Stephen King It
+[10_10__2024 16:50:51] : controller update book attempt successful : 200 OK
+[10_10__2024 16:51:13] : attempting to update : It
+[10_10__2024 16:51:13] : update attempt successful : It
+[10_10__2024 16:51:13] : updateupdate attempt  has ended : It
+[10_10__2024 16:51:13] : controller update book attempt successful : 200 OK
+[10_10__2024 16:51:44] : attempting to login : bob@adm.be
+[10_10__2024 16:51:44] : Log in attempt successful : bob@adm.be
+[10_10__2024 16:51:44] : login attempt to login has ended : bob@adm.be
+[10_10__2024 16:51:44] : controller login attempt successful : 200 OK
+[10_10__2024 16:52:48] : attempting to update : It
+[10_10__2024 16:52:48] : update attempt successful : It
+[10_10__2024 16:52:48] : updateupdate attempt  has ended : It
+[10_10__2024 16:52:48] : controller update book attempt successful : 200 OK
+[10_10__2024 16:53:29] : attempting to update : It
+[10_10__2024 16:53:29] : update attempt successful : It
+[10_10__2024 16:53:29] : updateupdate attempt  has ended : It
+[10_10__2024 16:53:29] : controller update book attempt successful : 200 OK
+[10_10__2024 16:53:56] : attempting to login : bob@adm.be
+[10_10__2024 16:53:56] : Log in attempt successful : bob@adm.be
+[10_10__2024 16:53:56] : login attempt to login has ended : bob@adm.be
+[10_10__2024 16:53:56] : controller login attempt successful : 200 OK
+[10_10__2024 16:54:53] : attempting to update : It
+[10_10__2024 16:54:53] : update attempt successful : It
+[10_10__2024 16:54:53] : updateupdate attempt  has ended : It
+[10_10__2024 16:54:53] : controller update book attempt successful : 200 OK
+[10_10__2024 16:55:12] : attempting to update : It
+[10_10__2024 16:55:12] : update attempt successful : It
+[10_10__2024 16:55:12] : updateupdate attempt  has ended : It
+[10_10__2024 16:55:12] : controller update book attempt successful : 200 OK
+[10_10__2024 16:56:21] : attempting to login : bob@adm.be
+[10_10__2024 16:56:21] : Log in attempt successful : bob@adm.be
+[10_10__2024 16:56:21] : login attempt to login has ended : bob@adm.be
+[10_10__2024 16:56:21] : controller login attempt successful : 200 OK
+[10_10__2024 16:57:28] : attempting to update : It
+[10_10__2024 16:57:28] : update attempt successful : It
+[10_10__2024 16:57:28] : updateupdate attempt  has ended : It
+[10_10__2024 16:57:28] : controller update book attempt successful : 200 OK
+[10_10__2024 16:57:47] : attempting to update : It
+[10_10__2024 16:57:47] : update attempt successful : It
+[10_10__2024 16:57:47] : updateupdate attempt  has ended : It
+[10_10__2024 16:57:47] : controller update book attempt successful : 200 OK
+[10_10__2024 16:58:17] : attempting to update : It
+[10_10__2024 16:58:17] : update attempt successful : It
+[10_10__2024 16:58:17] : updateupdate attempt  has ended : It
+[10_10__2024 16:58:17] : controller update book attempt successful : 200 OK
+[10_10__2024 16:58:40] : attempting to update : Stephen King It
+[10_10__2024 16:58:40] : update attempt successful : Stephen King It
+[10_10__2024 16:58:40] : updateupdate attempt  has ended : Stephen King It
+[10_10__2024 16:58:40] : controller update book attempt successful : 200 OK
+[10_10__2024 16:59:03] : attempting to update : It
+[10_10__2024 16:59:03] : update attempt successful : It
+[10_10__2024 16:59:03] : updateupdate attempt  has ended : It
+[10_10__2024 16:59:03] : controller update book attempt successful : 200 OK
+[10_10__2024 16:59:24] : attempting to update : It
+[10_10__2024 16:59:24] : update attempt successful : It
+[10_10__2024 16:59:24] : updateupdate attempt  has ended : It
+[10_10__2024 16:59:24] : controller update book attempt successful : 200 OK
+[10_10__2024 16:59:54] : attempting to update : It
+[10_10__2024 16:59:54] : update attempt successful : It
+[10_10__2024 16:59:54] : updateupdate attempt  has ended : It
+[10_10__2024 16:59:54] : controller update book attempt successful : 200 OK
+[10_10__2024 17:00:07] : attempting to update : It
+[10_10__2024 17:00:07] : update attempt successful : It
+[10_10__2024 17:00:07] : updateupdate attempt  has ended : It
+[10_10__2024 17:00:07] : controller update book attempt successful : 200 OK
+[10_10__2024 17:01:56] : attempting to add book : The Chronicles of Narnia
+[10_10__2024 17:01:56] : add book attempt successful : The Chronicles of Narnia
+[10_10__2024 17:01:56] : addBookadd book attempt has ended : The Chronicles of Narnia
+[10_10__2024 17:01:56] : controller update book attempt successful : 200 OK
+[10_10__2024 17:01:56] : controller add book attempt successful : 200 OK
+[10_10__2024 17:03:16] : attempting to delete book : 85
+[10_10__2024 17:03:16] : delete book attempt successful : 85
+[10_10__2024 17:03:16] : deleteBookByIddelete book attempt has ended : 85
+[10_10__2024 17:05:12] : attempting to login : gabe@email.com
+[10_10__2024 17:05:12] : Log in attempt successful : gabe@email.com
+[10_10__2024 17:05:12] : login attempt to login has ended : gabe@email.com
+[10_10__2024 17:05:13] : controller login attempt successful : 200 OK
+[10_10__2024 17:27:52] : attempting to login : user
+[10_10__2024 17:27:52] : log in attempt failed : no user found
+[10_10__2024 17:27:52] : login attempt to login has ended : user
+[10_10__2024 17:27:52] : controller login attempt successful : 404 NOT_FOUND
+[10_10__2024 17:30:19] : attempting to Creat account : gabe@email.be
+[10_10__2024 17:30:19] : createUser attempt to creat account has ended : gabe@email.be
+[10_10__2024 17:30:19] : controller create account attempt successful : 200 OK
+[10_10__2024 17:30:57] : attempting to Creat account : gabe@email.be
+[10_10__2024 17:30:57] : createUser attempt to creat account has ended : gabe@email.be
+[10_10__2024 17:30:57] : controller create account attempt successful : 400 BAD_REQUEST
+[10_10__2024 17:31:06] : attempting to Creat account : gabe@email.be
+[10_10__2024 17:31:06] : createUser attempt to creat account has ended : gabe@email.be
+[10_10__2024 17:31:06] : controller create account attempt successful : 400 BAD_REQUEST
+[10_10__2024 17:31:44] : attempting to login : gabe@email.be
+[10_10__2024 17:31:44] : Log in attempt successful : gabe@email.be
+[10_10__2024 17:31:44] : login attempt to login has ended : gabe@email.be
+[10_10__2024 17:31:44] : controller login attempt successful : 200 OK
+[10_10__2024 17:38:31] : attempting to borrow a book : gabe@email.be
+[10_10__2024 17:38:31] : borrow book attempt successful : gabe@email.be
+[10_10__2024 17:38:31] : borrowBookborrow book attempt has ended : gabe@email.be
+[10_10__2024 17:38:56] : attempting to borrow a book : gabe@email.be
+[10_10__2024 17:38:56] : borrow book attempt successful : gabe@email.be
+[10_10__2024 17:38:56] : borrowBookborrow book attempt has ended : gabe@email.be
+[10_10__2024 17:39:01] : attempting to borrow a book : gabe@email.be
+[10_10__2024 17:39:01] : borrow book attempt successful : gabe@email.be
+[10_10__2024 17:39:01] : borrowBookborrow book attempt has ended : gabe@email.be
+[10_10__2024 17:39:14] : attempting to borrow a book : gabe@email.be
+[10_10__2024 17:39:14] : borrow book attempt successful : gabe@email.be
+[10_10__2024 17:39:14] : borrowBookborrow book attempt has ended : gabe@email.be
+[10_10__2024 17:39:23] : attempting to borrow a book : gabe@email.be
+[10_10__2024 17:39:23] : borrow book attempt successful : gabe@email.be
+[10_10__2024 17:39:23] : borrowBookborrow book attempt has ended : gabe@email.be
+[10_10__2024 17:39:33] : attempting to borrow a book : gabe@email.be
+[10_10__2024 17:39:33] : borrow book attempt successful : gabe@email.be
+[10_10__2024 17:39:33] : borrowBookborrow book attempt has ended : gabe@email.be
+[10_10__2024 17:39:43] : attempting to borrow a book : gabe@email.be
+[10_10__2024 17:39:43] : borrow book attempt successful : gabe@email.be
+[10_10__2024 17:39:43] : borrowBookborrow book attempt has ended : gabe@email.be
+[10_10__2024 17:40:00] : attempting to borrow a book : gabe@email.be
+[10_10__2024 17:40:00] : borrow book attempt successful : gabe@email.be
+[10_10__2024 17:40:00] : borrowBookborrow book attempt has ended : gabe@email.be
+[10_10__2024 17:40:54] : attempting to renew Borrowed Book : gabe@email.be
+[10_10__2024 17:40:54] : renew borrowed book attempt successful : gabe@email.be
+[10_10__2024 17:40:54] : renewBorrowedBookrenew borrowed book attempt has ended : gabe@email.be
+[10_10__2024 17:41:00] : attempting to renew Borrowed Book : gabe@email.be
+[10_10__2024 17:41:00] : renew borrowed book attempt successful : gabe@email.be
+[10_10__2024 17:41:00] : renewBorrowedBookrenew borrowed book attempt has ended : gabe@email.be
+[10_10__2024 17:41:18] : attempting to return Borrowed Book : 89
+[10_10__2024 17:41:18] : return borrowed book attempt successful 89
+[10_10__2024 17:41:18] : returnBorrowedBookreturn borrowed book attempt has ended : 89
+[10_10__2024 17:41:30] : attempting to borrow a book : gabe@email.be
+[10_10__2024 17:41:30] : borrow book attempt successful : gabe@email.be
+[10_10__2024 17:41:30] : borrowBookborrow book attempt has ended : gabe@email.be
+[10_10__2024 17:41:44] : attempting to renew Borrowed Book : gabe@email.be
+[10_10__2024 17:41:44] : renew borrowed book attempt successful : gabe@email.be
+[10_10__2024 17:41:44] : renewBorrowedBookrenew borrowed book attempt has ended : gabe@email.be
+[10_10__2024 17:41:53] : attempting to return Borrowed Book : 97
+[10_10__2024 17:41:53] : return borrowed book attempt successful 97
+[10_10__2024 17:41:53] : returnBorrowedBookreturn borrowed book attempt has ended : 97
+[10_10__2024 17:41:59] : attempting to return Borrowed Book : 90
+[10_10__2024 17:41:59] : return borrowed book attempt successful 90
+[10_10__2024 17:41:59] : returnBorrowedBookreturn borrowed book attempt has ended : 90
+[10_10__2024 17:42:13] : attempting to return Borrowed Book : 91
+[10_10__2024 17:42:13] : return borrowed book attempt successful 91
+[10_10__2024 17:42:13] : returnBorrowedBookreturn borrowed book attempt has ended : 91
+[10_10__2024 17:42:14] : attempting to return Borrowed Book : 92
+[10_10__2024 17:42:14] : return borrowed book attempt successful 92
+[10_10__2024 17:42:14] : returnBorrowedBookreturn borrowed book attempt has ended : 92
+[10_10__2024 17:42:15] : attempting to return Borrowed Book : 93
+[10_10__2024 17:42:15] : return borrowed book attempt successful 93
+[10_10__2024 17:42:15] : returnBorrowedBookreturn borrowed book attempt has ended : 93
+[10_10__2024 17:42:17] : attempting to return Borrowed Book : 94
+[10_10__2024 17:42:17] : return borrowed book attempt successful 94
+[10_10__2024 17:42:17] : returnBorrowedBookreturn borrowed book attempt has ended : 94
+[10_10__2024 17:42:18] : attempting to return Borrowed Book : 95
+[10_10__2024 17:42:18] : return borrowed book attempt successful 95
+[10_10__2024 17:42:18] : returnBorrowedBookreturn borrowed book attempt has ended : 95
+[10_10__2024 17:42:33] : attempting to return Borrowed Book : 96
+[10_10__2024 17:42:33] : return borrowed book attempt successful 96
+[10_10__2024 17:42:33] : returnBorrowedBookreturn borrowed book attempt has ended : 96
+[10_10__2024 17:43:00] : attempting to borrow a book : gabe@email.be
+[10_10__2024 17:43:00] : borrow book attempt successful : gabe@email.be
+[10_10__2024 17:43:00] : borrowBookborrow book attempt has ended : gabe@email.be
+[10_10__2024 17:53:08] : attempting to return Borrowed Book : 98
+[10_10__2024 17:53:08] : return borrowed book attempt successful 98
+[10_10__2024 17:53:08] : returnBorrowedBookreturn borrowed book attempt has ended : 98

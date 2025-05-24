@@ -37,21 +37,21 @@ public class UserController {
         return ResponseEntity.ok(response);
     }
 
-    @PostMapping("/addPhoto")
-    public ResponseEntity addPhoto(@RequestParam String email, @RequestBody MultipartFile file) {
-        try {
-            userService.addProfilePhoto(file, email);
-        } catch (IOException e) {
-            System.out.println(e.getMessage());
-            e.printStackTrace();
-            return ResponseEntity.badRequest().build();
-        } catch (Exception e) {
-            System.out.println(e.getMessage());
-            return ResponseEntity.notFound().build();
-        }
-
-        return ResponseEntity.ok().build();
-    }
+//    @PostMapping("/addPhoto")
+//    public ResponseEntity addPhoto(@RequestParam String email, @RequestBody MultipartFile file) {
+//        try {
+//            userService.addProfilePhoto(file, email);
+//        } catch (IOException e) {
+//            System.out.println(e.getMessage());
+//            e.printStackTrace();
+//            return ResponseEntity.badRequest().build();
+//        } catch (Exception e) {
+//            System.out.println(e.getMessage());
+//            return ResponseEntity.notFound().build();
+//        }
+//
+//        return ResponseEntity.ok().build();
+//    }
 
     @PostMapping("/borrow")
     public ResponseEntity borrowBook(@RequestParam String email, @RequestParam Long bookId) {
